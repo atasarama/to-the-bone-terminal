@@ -36,3 +36,10 @@ It doesn’t play music directly, so you can **manually play the song** from Spo
 
 ```bash
 python pamungkas_lyrics.py
+
+---
+
+## 🖼️ Preview Video
+
+🎬 [Watch the lyric animation on Instagram](https://www.instagram.com/stories/highlights/18019625765415432/)
+
